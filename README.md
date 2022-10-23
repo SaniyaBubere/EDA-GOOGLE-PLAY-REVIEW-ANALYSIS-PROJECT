@@ -1,44 +1,44 @@
-#Play Store App Review Analysis
+# Play Store App Review Analysis
 
-Abstract:
+## Abstract:
 
 
 We are analyzing the data of playstore apps and user reviews.Our objective is to Actionable insights that can be drawn for developers to work on and capture the Android market and key factors responsible for app engagement and success. We studied two data sets one in terms of app category , its size , no of installed , no of reviews ,its price , for whom these apps can suitable , genres app belong to , app last update, current version , for which android version it is suitable and another dataset is of user reviews in terms of user review , their sentiment ,sentiment polarity and sentiment subjectivity.
 
 
- Project Files Description:
+## Project Files Description:
  
 This Project includes 1 colab notebook of individual, 1 team colab, 1 technical documentation,1 self video as well as 1 presentation 
 
 
-Executable Files:
+## Executable Files:
 
 Play Store App Review Analysis - Includes all functions required for clustering operations.
 
 
-Output:
+## Output:
 
 Google Colab - All the outputs are visible in the provided colab notebook.
 
 
-Input Files:
+## Input Files:
 
 Play Store Data.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
 
 User Reviews.csv - It contains the user reviews and its sentiment score for the respective app.
 
-Data Source:
+## Data Source:
 
 
 Dataset - Dataset taken from Almabetter
 
-Introduction:
+## Introduction:
 
 
 Play store is an Android Market that serves as the official app store for certified devices running on the Android Operating system. Developed and Operated by Google, launched on 6th March, 2012. Approximately 3.48 million apps are in the Play store. Play store apps have their own features such as Ratings, Reviews, Size and more. From the problem statement given, we should analyze the given database and should come up with the key factors that increased the number of users, long term usage etc., the objective of this project is to deliver insights to understand customer demands better and thus help developers to popularize the product.
 
 
-The contents of Play Store Data are:
+## The contents of Play Store Data are:
 
 App: It contains the name of the app with a short description (optional).
 
@@ -66,7 +66,7 @@ Current Ver: It gives the current version of the respective app.
 
 Android Ver: It gives the android version of the respective app.
 
-The contents of User Reviews are:
+## The contents of User Reviews are:
 
 
 App: It contains the name of the app with a short description (optional).
@@ -80,7 +80,7 @@ Sentiment_Polarity: It gives the polarity of the review. Its range is [-1,1], wh
 Sentiment_Subjectivity: This value gives how close a reviewer’s opinion is to the opinion of the general public. Its range is [0,1]. Higher the subjectivity, closer is the reviewer’s opinion to the opinion of the general public, and lower subjectivity indicates the review is more of a factual information.
 
 
-References
+## References
 
 
 GeeksforGeeks
