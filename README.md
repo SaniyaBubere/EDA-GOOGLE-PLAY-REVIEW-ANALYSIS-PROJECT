@@ -1,6 +1,9 @@
 Play Store App Review Analysis
 Play Store App Review Analysis
+
 Abstract:
+
+
 We are analyzing the data of playstore apps and user reviews.Our objective is to Actionable insights that can be drawn for developers to work on and capture the Android market and key factors responsible for app engagement and success. We studied two data sets one in terms of app category , its size , no of installed , no of reviews ,its price , for whom these apps can suitable , genres app belong to , app last update, current version , for which android version it is suitable and another dataset is of user reviews in terms of user review , their sentiment ,sentiment polarity and sentiment subjectivity.
  Project Files Description:
 This Project includes 1 colab notebook of individual, 1 team colab, 1 technical documentation,1 self video as well as 1 presentation :
